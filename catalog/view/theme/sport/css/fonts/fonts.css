@@ -1,0 +1,136 @@
+/*ROBOTO FONT */
+
+@font-face {
+    font-family: "Roboto Regular";
+    src: url("roboto/Roboto-Regular.ttf");
+}
+@font-face {
+    font-family: "Roboto Medium";
+    src: url("roboto/Roboto-Medium.ttf");
+}
+@font-face {
+    font-family: "Roboto Light";
+    src: url("roboto/Roboto-Light.ttf");
+}
+@font-face {
+    font-family: "Roboto Thin";
+    src: url("roboto/Roboto-Thin.ttf");
+}
+@font-face {
+    font-family: "Roboto LightItalic";
+    src: url("roboto/Roboto-LightItalic.ttf");
+}
+@font-face {
+    font-family: "Roboto Black";
+    src: url("roboto/Roboto-Black.ttf");
+}
+@font-face {
+    font-family: "Roboto Bold Italic";
+    src: url("roboto/Roboto-BoldItalic.ttf");
+}
+@font-face {
+    font-family: "Roboto Bold";
+    src: url("roboto/Roboto-Bold.ttf");
+}
+@font-face{
+	font-family: "Bambola";
+	 src: url('bambola/iCielBambola.ttf');
+}
+@font-face{
+	font-family: "Monotype";
+	 src: url('monotype/MTCORSVA.ttf');
+}
+/*Open Sans Font*/
+
+/*@font-face {
+    font-family: "Open Sans Light";
+    src: url("opensans/OpenSans-Light.ttf");
+}
+@font-face {
+    font-family: "Open Sans Semibold";
+    src: url("opensans/OpenSans-Semibold.ttf");
+}
+@font-face {
+    font-family: "Open Sans Regular";
+    src: url("opensans/OpenSans-Regular.ttf");
+}
+@font-face {
+    font-family: "Open Sans Bold";
+    src: url("opensans/OpenSans-Bold.ttf");
+}*/
+/*FONT AWESOME*/
+
+@font-face {
+    font-family: "FontAwesome";
+    src: url('font_awesome/fontawesome-webfont.eot');
+    /* IE9 Compat Modes */
+    
+    src: url("font_awesome/fontawesome-webfont.ttf"),
+    /* Safari, Android, iOS */
+    
+    url('font_awesome/fontawesome-webfont.woff'),
+    /* Modern Browsers */
+    
+    url('font_awesome/FontAwesome.otf'), url('font_awesome/fontawesome-webfont.svg');
+    /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Conv_UTM Swiss Condensed';
+  src: url('UTM-Avo/UTM%20Swiss%20Condensed.eot');
+  src: url('UTM-Avo/UTM%20Swiss%20Condensed.woff') format('woff'), 
+    url('UTM-Avo/UTM%20Swiss%20Condensed.ttf') format('truetype'), 
+    url('UTM-Avo/UTM%20Swiss%20Condensed.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'Conv_UTM Avo';
+  src: url('UTM-Avo/UTM%20Avo.eot');
+  src: url('UTM-Avo/UTM%20Avo.woff') format('woff'), 
+  url('UTM-Avo/UTM%20Avo.ttf') format('truetype'), 
+  url('UTM-Avo/UTM%20Avo.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'utm_swiss_condensedbold';
+    src: url('UTM-Avo/utm_swiss_condensedbold.eot');
+    src: url('UTM-Avo/utm_swiss_condensedboldd41d.eot?#iefix') format('embedded-opentype'),
+         url('UTM-Avo/utm_swiss_condensedbold.html') format('woff2'),
+         url('UTM-Avo/utm_swiss_condensedbold.woff') format('woff'),
+         url('UTM-Avo/utm_swiss_condensedbold.ttf') format('truetype'),
+         url('UTM-Avo/utm_swiss_condensedbold.svg#utm_swiss_condensedbold') format('svg');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: 'utm_avobold';
+    src: url('UTM-Avo/utm_avobold.eot');
+    src: url('UTM-Avo/utm_avoboldd41d.eot?#iefix') format('embedded-opentype'),
+         url('UTM-Avo/utm_avobold.html') format('woff2'),
+         url('UTM-Avo/utm_avobold.woff') format('woff'),
+         url('UTM-Avo/utm_avobold.ttf') format('truetype'),
+         url('UTM-Avo/utm_avobold.svg#utm_avobold') format('svg');
+         url('UTM-Avo/utm_avobold.svg#utm_avobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face{
+	font-family: "avenir";
+	 src: url('avenir-lt-std/AvenirLTStd-Black.otf');
+}
+@font-face{
+	font-family: "avenir-medium";
+	 src: url('avenir-lt-std/AvenirLTStd-Medium.otf');
+}
+@font-face{
+	font-family: "avenir-light";
+	 src: url('avenir-lt-std/AvenirLTStd-Light.otf');
+}
+@font-face{
+	font-family: "avenir-lt-roman";
+	 src: url('avenir-lt-std/AvenirLTStd-Roman.otf');
+}

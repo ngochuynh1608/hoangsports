@@ -1,0 +1,15 @@
+---------- Date: 2016-11-22 10:59:47 ~ IP : 116.99.173.204 ----------
+REQUEST URI : /tin-tuc.html
+MOD DETAILS:
+   modFile   : /var/sentora/hostdata/hoangsports/public_html/vqmod/xml/news.xml
+   id        : News
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Equotix
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
+
+----------------------------------------------------------------------
+
+

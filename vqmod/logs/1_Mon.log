@@ -1,0 +1,53 @@
+---------- Date: 2017-08-28 15:34:17 ~ IP : 116.110.17.253 ----------
+REQUEST URI : /adminpc
+MOD DETAILS:
+   modFile   : /var/sentora/hostdata/hoangsports/public_html/vqmod/xml/news.xml
+   id        : News
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Equotix
+VQModObject::parseMods - Could not resolve path for [adminpc/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [adminpc/controller/common/menu.php] (SKIPPED)
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
+
+MOD DETAILS:
+   modFile   : /var/sentora/hostdata/hoangsports/public_html/vqmod/xml/vqmm_menu_shortcut.xml
+   id        : VQMod Manager Menu Shortcut
+   version   : 2.0.0
+   vqmver    : 2.3.0
+   author    : Jason Clark (mithereal@gmail.com)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-08-28 15:34:45 ~ IP : 116.110.17.253 ----------
+REQUEST URI : /adminipc/
+MOD DETAILS:
+   modFile   : /var/sentora/hostdata/hoangsports/public_html/vqmod/xml/vqmm_menu_shortcut.xml
+   id        : VQMod Manager Menu Shortcut
+   version   : 2.0.0
+   vqmver    : 2.3.0
+   author    : Jason Clark (mithereal@gmail.com)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-08-28 15:35:55 ~ IP : 66.249.71.85 ----------
+REQUEST URI : /index.php/enterocinetic/11287-1851.cgi
+MOD DETAILS:
+   modFile   : /var/sentora/hostdata/hoangsports/public_html/vqmod/xml/news.xml
+   id        : News
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Equotix
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
+
+----------------------------------------------------------------------
+
+

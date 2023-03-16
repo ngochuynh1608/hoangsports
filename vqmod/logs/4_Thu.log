@@ -1,0 +1,28 @@
+---------- Date: 2020-08-27 19:04:09 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : D:\IONSITE\www\hoangsports.com\_\public_html\vqmod/xml/vqmm_menu_shortcut.xml
+   id        : VQMod Manager Menu Shortcut
+   version   : 2.0.0
+   vqmver    : 2.3.0
+   author    : Jason Clark (mithereal@gmail.com)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+----------------------------------------------------------------------
+
+
+---------- Date: 2020-08-27 19:05:37 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : D:\IONSITE\www\hoangsports.com\_\public_html\vqmod/xml/news.xml
+   id        : News
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Equotix
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
+
+----------------------------------------------------------------------
+
+

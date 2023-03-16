@@ -1,0 +1,15 @@
+---------- Date: 2016-03-12 17:22:40 ~ IP : 116.110.7.142 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /var/sentora/hostdata/thinhtien/public_html/thinhtien_ionsite_vn/vqmod/xml/news.xml
+   id        : News
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Equotix
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
+
+----------------------------------------------------------------------
+
+
